@@ -27,8 +27,8 @@ pip install pandas openpyxl numpy ipykernel nbformat plotly
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/markx98/Data-Analytics.git
-   cd Data-Analytics
+   git clone https://github.com/markx98/DataAnalytics.git
+   cd DataAnalytics
    ```
 
 2. **Prepare Your Data:**
@@ -46,12 +46,12 @@ pip install pandas openpyxl numpy ipykernel nbformat plotly
 ## Project Structure
 
 ```
-Data-Analytics/
+DataAnalytics/
 ├── Analytics/                   # Folder containing datasets
 │   ├── cancelamentos.csv        # Example cancellation data
 │   └── inicial.ipynb            # Main analysis notebook
 ├── README.md                    # Project README
-└── License.txt                  # Project LICENSE
+└── LICENSE.txt                  # Project LICENSE
 ```
 
 ## Notes
